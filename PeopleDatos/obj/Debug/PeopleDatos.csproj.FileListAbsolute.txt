@@ -1,0 +1,6 @@
+c:\users\joaquin\source\repos\PeopleConsole\PeopleDatos\bin\Debug\PeopleDatos.dll
+c:\users\joaquin\source\repos\PeopleConsole\PeopleDatos\bin\Debug\PeopleDatos.pdb
+c:\users\joaquin\source\repos\PeopleConsole\PeopleDatos\obj\Debug\PeopleDatos.csproj.CoreCompileInputs.cache
+c:\users\joaquin\source\repos\PeopleConsole\PeopleDatos\obj\Debug\PeopleDatos.dll
+c:\users\joaquin\source\repos\PeopleConsole\PeopleDatos\obj\Debug\PeopleDatos.pdb
+c:\users\joaquin\source\repos\PeopleConsole\PeopleDatos\obj\Debug\PeopleDatos.csprojResolveAssemblyReference.cache

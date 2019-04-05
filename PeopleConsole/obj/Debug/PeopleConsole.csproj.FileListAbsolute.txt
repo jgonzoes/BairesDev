@@ -1,0 +1,8 @@
+c:\users\joaquin\source\repos\PeopleConsole\PeopleConsole\bin\Debug\PeopleConsole.exe
+c:\users\joaquin\source\repos\PeopleConsole\PeopleConsole\bin\Debug\PeopleConsole.pdb
+c:\users\joaquin\source\repos\PeopleConsole\PeopleConsole\bin\Debug\PeopleDatos.dll
+c:\users\joaquin\source\repos\PeopleConsole\PeopleConsole\bin\Debug\PeopleDatos.pdb
+c:\users\joaquin\source\repos\PeopleConsole\PeopleConsole\obj\Debug\PeopleConsole.csprojResolveAssemblyReference.cache
+c:\users\joaquin\source\repos\PeopleConsole\PeopleConsole\obj\Debug\PeopleConsole.csproj.CoreCompileInputs.cache
+c:\users\joaquin\source\repos\PeopleConsole\PeopleConsole\obj\Debug\PeopleConsole.exe
+c:\users\joaquin\source\repos\PeopleConsole\PeopleConsole\obj\Debug\PeopleConsole.pdb

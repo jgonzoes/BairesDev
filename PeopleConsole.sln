@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleConsole", "PeopleConsole\PeopleConsole.csproj", "{7045F7D9-66DE-4BAD-8183-095C5DEB36D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleDatos", "PeopleDatos\PeopleDatos.csproj", "{39637D02-B7CB-4C3F-8A0E-CEC755836157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7045F7D9-66DE-4BAD-8183-095C5DEB36D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7045F7D9-66DE-4BAD-8183-095C5DEB36D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7045F7D9-66DE-4BAD-8183-095C5DEB36D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39637D02-B7CB-4C3F-8A0E-CEC755836157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39637D02-B7CB-4C3F-8A0E-CEC755836157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39637D02-B7CB-4C3F-8A0E-CEC755836157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39637D02-B7CB-4C3F-8A0E-CEC755836157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A4FD53-351C-4976-BB9D-63F1CC6C8345}
+	EndGlobalSection
+EndGlobal
